@@ -1,0 +1,4 @@
+application/config/*
+assets/images/*
+assets/files/*
+.well-known
